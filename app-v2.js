@@ -7,29 +7,29 @@
  */
 // 在head 中 加载 必要静态
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/css/mdui.min.css">'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/css/mdui.min.css">'
 );
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe@1.1.2/css/nexmoe.min.css">'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe@1.1.2/css/nexmoe.min.css">'
 );
 // markdown支持
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/markdown-it.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/markdown-it.min.js"></script>'
 );
 document.write(
   "<style>.mdui-appbar .mdui-toolbar{height:56px;font-size:1pc}.mdui-toolbar>*{padding:0 6px;margin:0 2px}.mdui-toolbar>i{opacity:.5}.mdui-toolbar>i{padding:0}.mdui-toolbar>a:hover,a.active,a.mdui-typo-headline{opacity:1}.mdui-container{max-width:980px}.mdui-list-item{transition:none}.mdui-list>.th{background-color:initial}.mdui-list-item>a{width:100%;line-height:3pc}.mdui-list-item{margin:2px 0;padding:0}.mdui-toolbar>a:last-child{opacity:1}</style>"
 );
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/css/DPlayer.min.css">'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/css/DPlayer.min.css">'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/DPlayer.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/DPlayer.min.js"></script>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/hls.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/hls.min.js"></script>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/flv.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/flv.min.js"></script>'
 );
 
 // 初始化页面，并载入必要资源
@@ -275,8 +275,8 @@ function file_code(path) {
 </div>
 <a href="${href}" class="mdui-fab mdui-fab-fixed mdui-ripple mdui-color-theme-accent"><i class="mdui-icon material-icons">file_download</i></a>
 
-<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/ace.js"></script>
-<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/ext-language_tools.js"></script>
+<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/ace.js"></script>
+<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/ext-language_tools.js"></script>
 	`;
   $("#content").html(content);
 

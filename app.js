@@ -10,7 +10,7 @@ document.write(
   '<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">'
 );
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe@1.1.2/css/nexmoe.min.css">'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe@1.1.2/css/nexmoe.min.css">'
 );
 // markdown支持
 document.write(
@@ -20,16 +20,16 @@ document.write(
   "<style>.mdui-appbar .mdui-toolbar{height:56px;font-size:1pc}.mdui-toolbar>*{padding:0 6px;margin:0 2px}.mdui-toolbar>i{opacity:.5}.mdui-toolbar>i{padding:0}.mdui-toolbar>a:hover,a.active,a.mdui-typo-headline{opacity:1}.mdui-container{max-width:980px}.mdui-list-item{transition:none}.mdui-list>.th{background-color:initial}.mdui-list-item>a{width:100%;line-height:3pc}.mdui-list-item{margin:2px 0;padding:0}.mdui-toolbar>a:last-child{opacity:1}</style>"
 );
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/css/DPlayer.min.css">'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/css/DPlayer.min.css">'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/DPlayer.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/DPlayer.min.js"></script>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/hls.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/hls.min.js"></script>'
 );
 document.write(
-  '<script src="//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe/js/flv.min.js"></script>'
+  '<script src="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe/js/flv.min.js"></script>'
 );
 
 // 初始化页面，并载入必要资源
@@ -39,10 +39,10 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
   <div class="navSize">
-			<a href="/"><img class="avatar" src="https://i.loli.net/2020/04/24/wCxMZFtiv6aKmQ1.png"/></a>
+			<a href="/"><img class="avatar" src="href="https://i.loli.net/2020/05/07/xqUpBQLashdwzTo.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://5mayrain.github.io/" target="_blank">博客</a></li>
+					<li class="menu_li"><a href="" target="_blank">博客</a></li>
 					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
