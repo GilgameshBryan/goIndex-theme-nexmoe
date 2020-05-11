@@ -7,7 +7,7 @@
  */
 // 在head 中 加载 必要静态
 document.write(
-  '<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@0.4.3/dist/css/mdui.min.css">'
+  '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/GilgameshBryan/goIndex-theme-nexmoe/tree/master/css/mdui.min.css">'
 );
 document.write(
   '<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/GilgameshBryan/goindex-them-nexmoe@1.1.2/css/nexmoe.min.css">'
